@@ -229,12 +229,11 @@ void main() {
                 letterSpacing: 10,
               ),
               ),
-
             ],
           ),
-
         ),
       ),
+      backgroundColor: Colors.black87,
     ),
   ),
   );
